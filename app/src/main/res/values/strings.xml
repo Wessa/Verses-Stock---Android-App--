@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">قاموس الاّيات</string>
+
+    <string name="verse">Verse</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_name">Type Name</string>
+    <string name="title_activity_verses">Verses</string>
+    <string name="title_activity_verse">Verse</string>
+</resources>
